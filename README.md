@@ -51,8 +51,6 @@ Embora nossas aplicações sejam escritas em Kotlin e C# (.net core), você não
 
 ### Sobre a documentação
 
-Nesta etapa do processo seletivo queremos entender as decisões por trás do código, portanto é fundamental que o *README* tenha algumas informações referentes a sua solução.
-
 Algumas dicas do que esperamos ver são:
 
 - Instruções básicas de como executar o projeto;
