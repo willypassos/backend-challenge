@@ -1,0 +1,11 @@
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/ChallengeBackendApplication.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/controller/PasswordController.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/dto/PasswordDTO.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/exception/GlobalExceptionHandler.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/exception/PasswordLengthException.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/exception/PasswordValidationException.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/exception/RepeatedCharacterException.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/model/Password.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/service/PasswordService.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/validation/NoRepeatedCharactersValidator.java
+/Users/willypassos/Documents/desafio/backend-challenge/src/main/java/challenge_backend/validation/PasswordValidator.java

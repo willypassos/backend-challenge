@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+challenge-backend,challenge_backend.exception,PasswordValidationException,0,9,0,0,0,4,0,2,0,2
+challenge-backend,challenge_backend.exception,RepeatedCharacterException,0,9,0,0,0,4,0,2,0,2
+challenge-backend,challenge_backend.exception,GlobalExceptionHandler,0,34,0,0,0,6,0,5,0,5
+challenge-backend,challenge_backend.exception,PasswordLengthException,0,9,0,0,0,4,0,2,0,2
+challenge-backend,challenge_backend.validation,PasswordValidator,0,130,0,6,0,27,0,18,0,15
+challenge-backend,challenge_backend.validation,NoRepeatedCharactersValidator,0,37,0,2,0,9,0,6,0,5
+challenge-backend,challenge_backend.service,PasswordService,0,30,0,2,0,9,0,4,0,3
+challenge-backend,challenge_backend.controller,PasswordController,0,16,0,0,0,5,0,2,0,2
